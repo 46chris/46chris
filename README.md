@@ -1,4 +1,8 @@
 ### ✨ Hi! I'm Chris 
+I'm a second year student Cognitive Science (spec. HCI) at UCSD. I mostly work on video game and full-stack web development projects. Outside of programming, I enjoy skateboarding, cooking, and going on camping trips. 
+<hr> 
+## Involvements 
+
 
 <!--
 **46chris/46chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
