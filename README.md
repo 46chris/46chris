@@ -1,5 +1,5 @@
 ### ✨ Hi! I'm Chris 
-I'm a third year student Cognitive Science (spec. HCI) at UCSD. I mostly work on video game and full-stack web development projects. Outside of programming, I enjoy skateboarding, cooking, and going on camping trips. 
+I'm a third year student Cognitive Science (spec. HCI) at UCSD. I mostly work as a full-stack web developer and dabble in Unity development. Outside of programming, I enjoy skateboarding, cooking, and going on camping trips. 
 
 ### 💥Involvements 
 - I'm a front end React-Native developer at Sesto Labs 
